@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "binaryheap": ">= 0.0.3",
-    "native-dns-packet": ">= 0.0.1"
+    "native-dns-packet": "git+https://github.com/okTurtles/native-dns-packet.git#307e77a47ebba57a5ae9118a284e916e5ebb305a"
   },
   "devDependencies": {
   }
